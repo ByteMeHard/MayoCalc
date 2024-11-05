@@ -1,7 +1,7 @@
 # Mayyar Lateness Calculator
 
 ## Overview
-The **Mayyar Lateness Calculator** is a fun Python app that estimates how late Mayyar will be based on various factors, such as whether he's under influence, has pooped, or if his father is visiting.
+The Mayyar Lateness Calculator is a fun Python app that estimates how late Mayyar will be based on various factors. Mayyar is a close friend of mine who's almost always late. I've noticed some patterns in his behavior and continue to find more, so instead of just waiting around, I created this calculator to estimate his true arrival time.
 
 ## Features
 - Takes Mayyar's initial time estimate.
